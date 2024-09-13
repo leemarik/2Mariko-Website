@@ -2,7 +2,7 @@
 title: "Mariko_Lee"
 ---
 
-This is a Quarto website.
+Hi! I'm Mariko, an undergrad student at the University of Toronto. 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
